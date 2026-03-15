@@ -29,7 +29,8 @@ If you want a foundation that already has **all of these checks implemented**, I
 
 It’s the same hardened architecture I use as an AppSec Engineer to ship products fast and secure.
 
-### [🚀 Get the Founder Kit (Next.js 15 + Docker + Hardened Security)](https://grodd.gumroad.com/l/founder-kit), (https://app.lemonsqueezy.com/share/891557)
+### [🚀 Get the Founder Kit (Next.js 15 + Docker + Hardened Security)]
+(https://grodd.gumroad.com/l/founder-kit), (https://app.lemonsqueezy.com/share/891557)
 
 **What's inside:**
 - ✅ Atomic Credit System (No race conditions)
